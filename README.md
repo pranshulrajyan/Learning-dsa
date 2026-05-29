@@ -1,8 +1,7 @@
 # dsa-cpp
-This repository contains dsa in cpp language.
+- This repository contains dsa in cpp language.
 ## Topics covered:
-Arrays
-
+- Arrays
 ## Goals:
-Logical thinking
-Practice problem solving
+- Logical thinking
+- Practice problem solving
