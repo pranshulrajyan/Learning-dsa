@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    void explainpair(){
+
+    void explainpair() {
         pair<int , int> p = {4,5};
         cout << p.first << " " << p.second;
         // we can also make pair of different data types
@@ -16,5 +16,5 @@ int main(){
         for(int i = 0; i < 3; i++){
             cout << arr[i].first << " " << arr[i].second << endl;       
     }
-    return 0;
+
 }
