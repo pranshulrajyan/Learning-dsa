@@ -1,0 +1,2 @@
+//Unordered Map are similar to Map but the only difference is that it does not maintain any order of the keys. It uses hash tables to store the key-value pairs, which allows for faster access and insertion compared to Map.
+//the functions of Unordered Map are the same as Map as described in 11-Map.cpp file.
