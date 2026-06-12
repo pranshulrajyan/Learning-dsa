@@ -38,11 +38,12 @@ void explainAlgorithms()
     sort(a, a + 3, comp);
 
     int num = 7;
-    int cnt = __builtin_popcount(num);
+    int cnt = __builtin_popcount(num); // gives the number of 1s in boolean value of 7
 
     long long num = 123456789;
-    int cnt = __builtin_popcountll(num);
+    int cnt = __builtin_popcountll(num); // gives the number of 1s in boolean value of 123456789
 
+    //to find all the permutations of a number:
     string s = "123";
     do
     {
