@@ -15,6 +15,13 @@ A collection of Data Structures & Algorithms problems and implementations in C++
 * Prime Number Check
 * Greatest Common Divisor (GCD)
 
+### Recursion Basics
+
+* Introduction to Recursion
+* Print Name N Times
+* Sum of First N Numbers
+* Factorial of a Number
+
 ### Arrays
 
 * Array Traversal
@@ -35,6 +42,7 @@ A collection of Data Structures & Algorithms problems and implementations in C++
 * Priority Queue
 * Deque
 * List
+
 
 ## 👨‍💻 Author
 
