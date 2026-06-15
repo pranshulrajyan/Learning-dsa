@@ -6,9 +6,9 @@ class Solution
 public:
     int NnumbersSum(int N)
     {
-        if (N == 0)
+        if (N == 1)
         {
-            return 0;
+            return 1;
         }
 
         return N + NnumbersSum(N - 1);
@@ -22,8 +22,6 @@ int main()
     cin >> N;
 
     Solution obj;
-    if (obj.NnumbersSum(N))
-    {
-        cout << "the sum is: " << obj.NnumbersSum(N) << endl;
-    };
+    int ans = obj.NnumbersSum(N);
+    cout << "The sum is: " << ans << endl;
 }
