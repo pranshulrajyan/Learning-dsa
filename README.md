@@ -21,6 +21,7 @@ A collection of Data Structures & Algorithms problems and implementations in C++
 * Print Name N Times
 * Sum of First N Numbers
 * Factorial of a Number
+* Fibonacci Series
 
 ### Arrays
 
