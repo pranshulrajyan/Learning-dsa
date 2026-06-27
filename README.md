@@ -1,50 +1,65 @@
 # DSA in C++
 
-A collection of Data Structures & Algorithms problems and implementations in C++ while learning DSA.
+A collection of Data Structures and Algorithms problems and implementations in C++ as I learn and practice DSA.
 
 ## Topics Covered
 
 ### Basic Mathematics
+- Count Digits
+- Digit Extraction
+- Reverse Number
+- Palindrome Number
+- Armstrong Number
+- Divisors of a Number
+- Prime Number Check
+- Greatest Common Divisor (GCD)
 
-* Count Digits
-* Digit Extraction
-* Reverse Number
-* Palindrome Number
-* Armstrong Number
-* Divisors of a Number
-* Prime Number Check
-* Greatest Common Divisor (GCD)
-
-### Recursion Basics
-
-* Introduction to Recursion
-* Print Name N Times
-* Sum of First N Numbers
-* Factorial of a Number
-* Fibonacci Series
+### Recursion
+- Print Name N Times
+- Sum of First N Numbers
+- Factorial
+- Fibonacci Series
 
 ### Arrays
-
-* Array Traversal 
+- Array Traversal
 
 ### STL (Standard Template Library)
+- Vector
+- Pair
+- Iterators
+- Set
+- Multiset
+- Unordered Set
+- Map
+- Multimap
+- Unordered Map
+- Stack
+- Queue
+- Priority Queue
+- Deque
+- List
 
-* Vector
-* Pair
-* Iterators
-* Set
-* Multiset
-* Unordered Set
-* Map
-* Multimap
-* Unordered Map
-* Stack
-* Queue
-* Priority Queue
-* Deque
-* List
+### Hashing
+- Hashing Basics
 
+### Sorting
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
 
-## 👨‍💻 Author
+## Repository Structure
+
+```
+DSA/
+├── Basic Mathematics/
+├── Recursion/
+├── Arrays/
+├── STL/
+├── Hashing/
+└── Sorting/
+```
+
+## Author
 
 **Pranshul Rajyan**
