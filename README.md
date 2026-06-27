@@ -2,10 +2,10 @@ DSA in C++
 
 A collection of Data Structures and Algorithms problems and implementations in C++ as I learn and practice DSA.
 
-Repository Structure
+## Repository Structure
 
+```text
 dsa-cpp/
-│
 ├── 01-STL
 ├── 02-Basic-maths
 ├── 03-Recursion
@@ -13,8 +13,9 @@ dsa-cpp/
 ├── 05-Sorting
 ├── Arrays
 └── README.md
+```
 
-Topics Covered
+## Topics Covered
 
 01 - STL (Standard Template Library)
 
@@ -62,7 +63,7 @@ Topics Covered
 * Insertion Sort
 * Merge Sort
 
-Arrays
+06 - Arrays
 
 * Array Traversal
 
