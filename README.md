@@ -11,7 +11,7 @@ dsa-cpp/
 ├── 03-Recursion
 ├── 04-Hashing
 ├── 05-Sorting
-├── Arrays
+├── 06-Arrays
 └── README.md
 ```
 
