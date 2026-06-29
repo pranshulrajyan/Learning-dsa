@@ -68,6 +68,7 @@ dsa-cpp/
 ### 06 - Arrays
 
 - Array Traversal
+- Largest Element in Array
 
 ## Author
 
