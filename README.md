@@ -71,6 +71,7 @@ dsa-cpp/
 - Largest Element in Array
 - Second Largest Element in Array
 - Smallest element in Array
+- Second Smallest Element in Array
 
 ## Author
 
