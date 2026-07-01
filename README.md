@@ -74,7 +74,7 @@ dsa-cpp/
 - Second Smallest Element in Array
 - Check if the given Array is Sorted or not
 - Remove Duplicated from an Array
-- Rotation of an Array by k places
+- Rotation of an Array by k places 
 
 ## Author
 
