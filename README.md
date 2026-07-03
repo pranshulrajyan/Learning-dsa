@@ -77,7 +77,8 @@ dsa-cpp/
 - Rotation of an Array by k places 
 - Move Zeros in an Array
 - Linear Search in Array
-- Union of two Sorted Arrayss
+- Union of two Sorted Arrays
+- Intersection of two Sorted Arrays
 
 ## Author
 
