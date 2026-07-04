@@ -79,6 +79,7 @@ dsa-cpp/
 - Linear Search in Array
 - Union of two Sorted Arrays
 - Intersection of two Sorted Arrays
+- Finding Missing number in an Array
 
 ## Author
 
