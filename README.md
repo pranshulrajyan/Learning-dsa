@@ -81,6 +81,7 @@ dsa-cpp/
 - Intersection of two Sorted Arrays
 - Finding Missing number in an Array
 - Maximum Consecutive One's in Array
+- Single Number Problem
 
 ## Author
 
