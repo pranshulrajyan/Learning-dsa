@@ -83,6 +83,7 @@ dsa-cpp/
 - Maximum Consecutive One's in Array
 - Single Number Problem
 - Longest SubArray with Sum k
+- Two Sum Problem
 
 ## Author
 
