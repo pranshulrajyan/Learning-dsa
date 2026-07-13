@@ -82,6 +82,7 @@ dsa-cpp/
 - Finding Missing number in an Array
 - Maximum Consecutive One's in Array
 - Single Number Problem
+- Longest SubArray with Sum k
 
 ## Author
 
