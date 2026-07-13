@@ -85,6 +85,7 @@ dsa-cpp/
 - Longest SubArray with Sum k
 - Two Sum Problem
 - Sorting Array of 0's, 1's and 2's Problem
+- Majority Element-1 Problem
 
 ## Author
 
