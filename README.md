@@ -87,6 +87,7 @@ dsa-cpp/
 - Sorting Array of 0's, 1's and 2's Problem
 - Majority Element-1 Problem
 - Kandane's Algorithm 
+- Best Time to Buy & Sell Stocks Problem
 
 ## Author
 
