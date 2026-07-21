@@ -91,6 +91,7 @@ dsa-cpp/
 - Rearrange Array by Sign Problem
 - Next Permutation in Sequence Problem
 - Longest Consecutive Sequence in an Array
+- Set Matrix Zeroes
 
 ## Author
 
