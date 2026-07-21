@@ -90,6 +90,7 @@ dsa-cpp/
 - Best Time to Buy & Sell Stocks Problem
 - Rearrange Array by Sign Problem
 - Next Permutation in Sequence Problem
+- Longest Consecutive Sequence in an Array
 
 ## Author
 
