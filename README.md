@@ -92,6 +92,7 @@ dsa-cpp/
 - Next Permutation in Sequence Problem
 - Longest Consecutive Sequence in an Array
 - Set Matrix Zeroes
+- Rotate Matrix by 90 degrees Problem
 
 ## Author
 
