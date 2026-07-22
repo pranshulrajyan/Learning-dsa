@@ -93,6 +93,7 @@ dsa-cpp/
 - Longest Consecutive Sequence in an Array
 - Set Matrix Zeroes
 - Rotate Matrix by 90 degrees Problem
+- Spiral Matrix Problem
 
 ## Author
 
