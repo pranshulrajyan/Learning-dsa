@@ -94,6 +94,7 @@ dsa-cpp/
 - Set Matrix Zeroes
 - Rotate Matrix by 90 degrees Problem
 - Spiral Matrix Problem
+- Subarray Sum Equals K Problem
 
 ## Author
 
